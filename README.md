@@ -1,4 +1,4 @@
-# Designing-a-Bank-Marketing-Database
+# Designing a Bank Marketing Database
 ![piggy_bank](piggy_bank.jpg)
 
 <br>
